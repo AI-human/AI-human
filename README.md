@@ -5,13 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ai-human" alt="ai-human" /></a> </p>
 
-- 🔭 I’m currently working on **flutter**
 
-- 🌱 I’m currently learning **Flutter, TensorFlow,SQL**
-
-- 🤝 I’m looking for help with **Deep Learnng**
-
-- 📫 How to reach me **tahmidulkashfi15@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
